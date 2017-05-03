@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">إعدادات</string>
+    <string name="app_name">متعدد اللغات</string>
+    <string name="camera">تصوير</string>
+    <string name="communicate">نقل</string>
+    <string name="gallery">عرض</string>
+    <string name="send">إرسال</string>
+    <string name="settings">إعدادات</string>
+    <string name="share">شارك</string>
+    <string name="tag_line">مثال تطبيقات متعددة اللغات</string>
+    <string name="title_activity_home">منزل</string>
+    <string name="video">فيديو</string>
+</resources>

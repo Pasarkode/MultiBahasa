@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Bahasa</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="camera">Kamera</string>
+    <string name="communicate">Komunikasi</string>
+    <string name="gallery">Galeri</string>
+    <string name="send">Kirim</string>
+    <string name="settings">Pengaturan</string>
+    <string name="share">Bagikan</string>
+    <string name="tag_line">Contoh aplikasi multi bahasa</string>
+    <string name="video">Vidio</string>
+    <string name="lang_dialog_title">Pilih Bahasa</string>
+    <string name="lang_dialog_message">Ganti Bahasa Di Bawah ini</string>
+    <string name="language_setting">Perngaturan Bahasa</string>
+    <string name="btn_change_locale">Ganti Bahasa</string>
+</resources>
