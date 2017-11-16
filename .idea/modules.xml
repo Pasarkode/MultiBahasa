@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultiBahasa.iml" filepath="$PROJECT_DIR$/MultiBahasa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MultiBahasa.iml" filepath="$PROJECT_DIR$/.idea/MultiBahasa.iml" />
+      <module fileurl="file://D:\android\MultiBahasa\MultiBahasa.iml" filepath="D:\android\MultiBahasa\MultiBahasa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\android\MultiBahasa\app\app.iml" filepath="D:\android\MultiBahasa\app\app.iml" />
     </modules>
   </component>
 </project>
